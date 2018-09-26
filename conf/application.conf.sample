@@ -13,7 +13,7 @@ application.mode=dev
 # ~~~~~
 # The secret key is used to secure cryptographics functions
 # If you deploy your application to several instances be sure to use the same key !
-application.secret=KR4UHxGVnq3zxpLs59SVTrFBBUdgJIozmApg7nFDGSwqUlUg0C4sVVeUGcorWWsS
+application.secret=KR4UHxGVnq3zxpLs59SVTrFBBUdgJIozmApg7nFDGSwqUlUg0C4sVVeUGcorWWsS1ljsadklasjdnxckjhooi
 
 # i18n
 # ~~~~~
